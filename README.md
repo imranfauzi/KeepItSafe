@@ -21,4 +21,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+
+***************KeepItSafe***************
 This application allows user to create account, store notes with images. It also featuring a search function to search for a specific note.
+
+Stack: Bootstrap + Laravel + MySQL
